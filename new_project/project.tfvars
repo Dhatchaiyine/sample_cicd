@@ -1,2 +1,2 @@
-aws_region  = "us-east-1"
-bucket_name = "dhat-my-unique-idc-gh-actions-bucket"
+aws_region = "us-west-2"
+bucket_name = "dhatchaiyine-demo-123456"
